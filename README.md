@@ -4,11 +4,9 @@ Projeto da disciplina de Ciência de Dados (UFRN, 4º semestre).
 Análise exploratória e inferência sobre aluguéis de imóveis por bairro, zona e tipo.
 
 ## Dados
-
-- Arquivo: `[nome do arquivo].csv`
+- O arquivo `arquivo.csv` não está no repositório.
+- Coloque-o na pasta `data/` antes de rodar o notebook.
 - Fonte: [de onde veio, ou "fornecido pelo professor"]
-- Linhas: [N] | Colunas: [N]
-- Principais colunas: `bairro`, `zona`, `tier`, `area`, `rent_amount`, `hoa`, `property_tax`, `total`
 
 ## Como rodar
 
@@ -32,8 +30,7 @@ uv pip install -r requirements.txt
 
 ## Principais conclusões
 
-- [Exemplo: imóveis mobiliados têm aluguel ~14% maior]
-- [Exemplo: a altura do prédio não altera o aluguel por m²]
+- 
 
 ## Estrutura de pastas
 
@@ -47,4 +44,4 @@ projeto/
 
 ## Autor
 
-[Seu nome], [ano]
+Luigson, 2026
